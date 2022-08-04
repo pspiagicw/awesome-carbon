@@ -10,6 +10,8 @@
   </a>
 </p>
 
+A curated list of awesome Carbon frameworks, libraries, resources.
+
 If you see any repository that belongs here , open a PR!
 
 ## Contents
@@ -19,10 +21,12 @@ If you see any repository that belongs here , open a PR!
     - [Inspiration](#inspiration)
 
 
-## Official 
-_Official Carbon resources_
+## Official Links
+_Official Carbon resources and links_
 
-- [Repository](https://github.com/carbon-language/carbon-lang)
+- [Official Repository](https://github.com/carbon-language/carbon-lang)
+- [Discord](https://discord.gg/ZjVdShJDAs)
+- [GitHub Forum](https://github.com/carbon-language/carbon-lang/discussions)
 
 ## Inspiration
 _Other Awesome lists and direct inspiration for this one_
