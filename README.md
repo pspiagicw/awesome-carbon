@@ -15,7 +15,14 @@ If you see any repository that belongs here , open a PR!
 ## Contents
 
 - [Awesome Carbon](#awesome-carbon)
+    - [Official](#official)
     - [Inspiration](#inspiration)
+
+
+## Official 
+_Official Carbon resources_
+
+- [Repository](https://github.com/carbon-language/carbon-lang)
 
 ## Inspiration
 _Other Awesome lists and direct inspiration for this one_
